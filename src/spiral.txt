@@ -1,0 +1,9 @@
+circle 1 180
+circle 2 180
+circle 3 180
+circle 4 180 
+circle 5 180
+circle 6 180
+circle 7 180
+circle 8 180
+move 4d

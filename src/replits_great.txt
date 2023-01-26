@@ -1,0 +1,76 @@
+move ww
+circle -1 180
+togglepen
+move a 
+togglepen
+move w
+togglepen
+move dds
+togglepen
+move ss
+move d
+togglepen
+move w
+togglepen
+move a
+togglepen
+move w
+togglepen
+move d
+togglepen
+move d
+togglepen
+togglepen
+circle -1 180
+circle -1 -180
+togglepen
+circle -1 180
+move wss
+togglepen
+move ddd   
+togglepen
+move aww
+togglepen
+move dd
+togglepen
+move ss
+togglepen
+move dd
+togglepen
+move wwdaa
+togglepen
+move 9a
+move 3s
+togglepen
+move dasdsa
+togglepen
+move dd
+togglepen
+move dwsaw 
+togglepen 
+move wddd
+togglepen
+move assd
+togglepen
+move d
+togglepen
+move wws
+togglepen
+circle 1 90
+circle 1 -90
+circle 2 90
+circle 2 -90
+circle -2 90
+circle -2 -90
+circle 2 -90
+togglepen
+circle 2 90
+togglepen
+circle 2 90
+circle 2 -90
+togglepen
+circle 2 90
+togglepen
+move d
+togglepen
+move dwawd

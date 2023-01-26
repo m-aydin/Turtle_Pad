@@ -1,0 +1,12 @@
+circle 2 90
+circle 2 -180
+togglepen
+move w
+togglepen
+move w
+togglepen
+move 2d
+togglepen
+move s 
+togglepen
+move a
