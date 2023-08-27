@@ -87,7 +87,7 @@ def error(error_message):     #error_message: error message to display
 
 def bind_list_comparison(input_binds,input_to_check,index_to_check):  #input_binds: 2D list where it is checked if all of input_to_check is in a certain column of the list /
     binds_list=[]                                                     #index_to_check: determines what column of 2D list input_binds checked / input_to_check: string of characters
-    output_indexes=[]                                                 #where presence is detetced in given column of 2D list input_binds
+    output_indexes=[]                                                 #where presence is detected in given column of 2D list input_binds
 
     if index_to_check == -1:
         for current_bind in input_binds:
