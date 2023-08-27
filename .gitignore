@@ -1,2 +1,2 @@
-src/.vscode/**
-!src/.vscode/launch.json
+src\.vscode\**
+!src\.vscode\launch.json
