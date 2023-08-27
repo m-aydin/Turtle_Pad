@@ -1,2 +1,2 @@
-turtle_pad/src/.vscode/**
-!turtle_pad/src/.vscode/launch.json
+src/.vscode/**
+!src/.vscode/launch.json
